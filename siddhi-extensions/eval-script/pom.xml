@@ -47,8 +47,7 @@
         </dependency>
         <dependency>
             <groupId>org.wso2.siddhi</groupId>
-            <artifactId>eval-script</artifactId>
-            <version>${project.version}</version>
+            <artifactId>siddhi-extension-eval-script</artifactId>
         </dependency>
         <dependency>
             <groupId>org.wso2.orbit.com.github.lucarosellini.rJava</groupId>
